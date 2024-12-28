@@ -14,12 +14,10 @@
     background-color: #f1f1f1;
 }
 <style>
-           body {
-    font-size: 18px;
-    font-family: 'Arial', sans-serif;
-    line-height: 1.6;
-    color: #333;
-};
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
         }
         .container {
             max-width: 800px;
@@ -69,5 +67,3 @@
         th {
             background-color: #f2f2f2;
         }
-    
-        
