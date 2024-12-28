@@ -1,3 +1,12 @@
+/* General body styling with light blue background */
+body {
+    font-size: 18px;
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #e3f2fd; /* Light blue background */
+}
+
 /* Suggestions dropdown styling */
 #suggestions {
     position: absolute;
@@ -17,18 +26,14 @@
     background-color: #f1f1f1;
 }
 
-/* General body styling */
-body {
-    font-size: 18px;
-    font-family: 'Arial', sans-serif;
-    line-height: 1.6;
-    color: #333;
-}
-
 /* Container for centered content */
 .container {
     max-width: 800px;
     margin: auto;
+    background-color: white; /* White background for container */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for the container */
 }
 
 /* Styling for input groups */
@@ -53,6 +58,7 @@ button {
     color: white;
     border: none;
     cursor: pointer;
+    border-radius: 5px;
 }
 
 button:hover {
@@ -65,6 +71,7 @@ button:hover {
     padding: 15px;
     background-color: #f9f9f9;
     border: 1px solid #ddd;
+    border-radius: 5px;
 }
 
 .results p {
