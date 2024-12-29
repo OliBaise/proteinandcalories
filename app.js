@@ -24,7 +24,7 @@ const foodData = [
          {
           "name": "2 Chicken Thighs (skin on)",
           "type": "Meat",
-          "serving_size_g": 232,
+          "serving_size_g": 260,
           "protein_per_serving_g": 58,
           "calories_per_serving": 557,
           "protein_per_100g": 24.8,
@@ -34,7 +34,7 @@ const foodData = [
         {
           "name": "2 Chicken Thighs (skinless)",
           "type": "Meat",
-          "serving_size_g": 260,
+          "serving_size_g": 240,
           "protein_per_serving_g": 58,
           "calories_per_serving": 416,
           "protein_per_100g": 179,
